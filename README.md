@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityasingh21
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning BBDU lucknow 
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning B.tech from BBDU lucknow 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aadi21082003@gmail.com
 -  😄 Pronouns: ...
