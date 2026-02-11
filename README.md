@@ -16,9 +16,7 @@
 - **Databases:** MongoDB, MySQL  
 - **Other Interests:** Python, Data Science, Machine Learning  
 
-## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight)  
+
 ## ⚡ Fun Fact
 I believe in **“Code, Learn, Build, Repeat”** – every project is a new step forward 🚀  
 
