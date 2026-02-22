@@ -2,21 +2,27 @@ name: Generate Snake
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ STEP 1: repo ko load karo (VERY IMPORTANT)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ✅ STEP 2: snake generate karo
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: 2128Aditya
-          outputs: |
-            ./github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
+      # ✅ STEP 3: commit file to repo
       - name: Commit snake
         uses: EndBug/add-and-commit@v9
         with:
