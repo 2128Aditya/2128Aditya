@@ -23,3 +23,8 @@ I believe in **“Code, Learn, Build, Repeat”** – every project is a new ste
 ### 🌐 Connect with Me
 📧 **Email:** [aadi21082003@gmail.com](mailto:aadi21082003@gmail.com)  
 💼 **LinkedIn:** *(https://www.linkedin.com/in/aaditya212817)*  
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight)
+
+## 🔥 Contribution Snake
+![Snake](https://raw.githubusercontent.com/2128Aditya/2128Aditya/output/github-contribution-grid-snake.svg)
