@@ -54,10 +54,9 @@
 ---
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true)
 ## 🔥 Contribution Graph
 
 <p align="center">
