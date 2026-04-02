@@ -55,8 +55,7 @@
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&cache_seconds=10)
 ## 🔥 Contribution Graph
 
 <p align="center">
