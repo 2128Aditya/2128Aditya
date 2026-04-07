@@ -24,10 +24,10 @@
 
   <img src="https://img.shields.io/github/stars/2128Aditya?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=7C3AED" />
 
-  <img src="https://img.shields.io/github/forks/2128Aditya?label=Total%20Forks&style=for-the-badge&color=7C3AED" />
+  <!-- ACHIEVEMENTS BADGE -->
+  <img src="https://img.shields.io/badge/Achievements-Unlocked-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
----
 
 # 🌐 CONNECT WITH ME
 
