@@ -121,9 +121,8 @@
 # 💡 QUOTE
 
 <p align="center">
-✨ "Code. Learn. Build. Repeat." 🚀
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 </p>
-
 ---
 
 # ⚡ FUN
