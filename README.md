@@ -95,23 +95,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-# 🧠 LEETCODE STATS (AUTO UPDATE)
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=baloo&ext=contest" />
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=2128Aditya&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -121,13 +104,7 @@
 
 ---
 
-# 💎 GLASSMORPHISM CARD (COOL UI)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:5B21B6&height=120&section=header&text=Keep%20Building%20🚀&fontSize=30&fontColor=ffffff" />
-</p>
-
----
 
 # 💡 QUOTE
 
