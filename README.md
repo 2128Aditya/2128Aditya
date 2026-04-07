@@ -1,4 +1,3 @@
-
 <!-- AI INTRO ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=7C3AED&center=true&vCenter=true&width=900&lines=Initializing+Aditya+Singh...;Full+Stack+Developer+Loaded;AI+Enthusiast+Activated;Building+Future+🚀" />
@@ -66,11 +65,11 @@
 <p align="center">
 
 <!-- CONTRIBUTION SUMMARY -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 # 🛠️ TECH STACK
@@ -80,8 +79,6 @@
 </p>
 
 ---
-
-
 
 ---
 
@@ -102,6 +99,7 @@
 
 # 🐍 CONTRIBUTION SNAKE
 
+<!-- ⚠️ Make sure GitHub Action is enabled for snake animation auto update -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/main/github-contribution-grid-snake.svg" />
 </p>
@@ -111,11 +109,13 @@
 <p  align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" />
 </p>
+
 # 💡 QUOTE
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&animation=grow_out_in" />
 </p>
+
 ---
 
 # ⚡ FUN
