@@ -1,0 +1,39 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Read Stats
+        id: stats
+        run: |
+          DATA=$(cat stats.json)
+          REPOS=$(echo $DATA | jq '.public_repos')
+          FOLLOWERS=$(echo $DATA | jq '.followers')
+          FOLLOWING=$(echo $DATA | jq '.following')
+
+          echo "REPOS=$REPOS" >> $GITHUB_ENV
+          echo "FOLLOWERS=$FOLLOWERS" >> $GITHUB_ENV
+          echo "FOLLOWING=$FOLLOWING" >> $GITHUB_ENV
+
+      - name: Replace in README
+        run: |
+          sed -i "s/{{REPOS}}/$REPOS/g" README.md
+          sed -i "s/{{FOLLOWERS}}/$FOLLOWERS/g" README.md
+          sed -i "s/{{FOLLOWING}}/$FOLLOWING/g" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "aditya-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "update readme stats" || echo "No changes"
+          git push
