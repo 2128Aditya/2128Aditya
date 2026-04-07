@@ -1,9 +1,4 @@
-<!-- GLASS HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+I'm+Aditya+Singh;Full+Stack+Developer;AI+%7C+Web+%7C+Real+Projects;Building+Next+Gen+Apps+🚀" />
-</p>
 
----
 <!-- AI INTRO ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=7C3AED&center=true&vCenter=true&width=900&lines=Initializing+Aditya+Singh...;Full+Stack+Developer+Loaded;AI+Enthusiast+Activated;Building+Future+🚀" />
