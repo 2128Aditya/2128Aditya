@@ -18,7 +18,7 @@
 <!-- VISITOR + STATS COUNTER -->
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
 
   <img src="https://img.shields.io/github/followers/2128Aditya?label=Followers&style=for-the-badge&color=7C3AED" />
 
