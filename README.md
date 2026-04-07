@@ -99,11 +99,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=tokyo-night&hide_border=true" />
 </p>
 
-#TRACKER
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=tokyonight" />
-</p>
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -116,8 +111,10 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=tokyonight" />
 </p>
 
-
-
+# **TRACKER**
+<p  align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" />
+</p>
 # 💡 QUOTE
 
 <p align="center">
