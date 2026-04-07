@@ -60,6 +60,17 @@
 </p>
 
 ---
+<!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
+<h2 align="center">📊 Live Dev Dashboard</h2>
+
+<p align="center">
+
+<!-- CONTRIBUTION SUMMARY -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2128Aditya&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
+
+</p>
 
 # 🛠️ TECH STACK
 
