@@ -106,10 +106,6 @@
 <img src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/main/github-contribution-grid-snake.svg" />
 </p>
 
----
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=tokyonight" />
-</p>
 
 # **TRACKER**
 <p  align="center">
