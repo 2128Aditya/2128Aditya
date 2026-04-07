@@ -15,11 +15,18 @@
 
 ---
 
-<!-- VISITOR COUNTER -->
+<!-- VISITOR + STATS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
-</p>
 
+  <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/2128Aditya?label=Followers&style=for-the-badge&color=7C3AED" />
+
+  <img src="https://img.shields.io/github/stars/2128Aditya?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=7C3AED" />
+
+  <img src="https://img.shields.io/github/forks/2128Aditya?label=Total%20Forks&style=for-the-badge&color=7C3AED" />
+
+</p>
 ---
 
 # 🌐 CONNECT WITH ME
