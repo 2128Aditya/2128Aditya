@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityasingh-an&show_icons=true&theme=tokyonight&title_color=ff6b52&icon_color=ff6b52&text_color=a0aec0&bg_color=0d1117&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&title_color=ff6b52&icon_color=ff6b52&text_color=a0aec0&bg_color=0d1117&cache_seconds=86400" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adityasingh-an&theme=tokyonight&ring=ff6b52&fire=ff6b52&currStreakLabel=ff6b52" />
+  <img src="https://streak-stats.demolab.com?user=2128Aditya&theme=tokyonight&ring=ff6b52&fire=ff6b52&currStreakLabel=ff6b52" />
 </p>
 
 ---
