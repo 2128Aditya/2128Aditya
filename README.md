@@ -4,6 +4,11 @@
 </p>
 
 ---
+<!-- AI INTRO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=7C3AED&center=true&vCenter=true&width=900&lines=Initializing+Aditya+Singh...;Full+Stack+Developer+Loaded;AI+Enthusiast+Activated;Building+Future+🚀" />
+</p>
+
 
 <h1 align="center">👋 Aditya Singh</h1>
 
