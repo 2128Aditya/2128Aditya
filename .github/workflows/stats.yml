@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 min
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Stats
+        run: |
+          curl -o stats.json https://api.github.com/users/2128Aditya
+
+      - name: Commit Stats
+        run: |
+          git config --global user.name "aditya-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add stats.json
+          git commit -m "update stats" || echo "No changes"
+          git push
