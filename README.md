@@ -64,12 +64,13 @@
 
 <p align="center">
 
-<!-- CONTRIBUTION SUMMARY -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<!-- ✅ FIXED ORIGINAL API -->
+<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<!-- ✅ FIXED ORIGINAL API -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" />
 </p>
 
 # 🛠️ TECH STACK
