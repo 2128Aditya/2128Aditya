@@ -53,9 +53,11 @@
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=120" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=120" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=7C3AED&icon_color=7C3AED" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=transparent" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=7C3AED" />
 </p>
 
 ---
@@ -71,7 +73,7 @@
 # 🔥 STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2128Aditya&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=2128Aditya&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 </p>
 
 ---
@@ -79,7 +81,7 @@
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=00000000&color=7C3AED&line=7C3AED&point=7C3AED&hide_border=true" />
 </p>
 
 ---
@@ -95,7 +97,7 @@
 # TRACKER
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=transparent" />
 </p>
 
 ---
