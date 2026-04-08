@@ -11,7 +11,7 @@
 <h1 align="center">👋 Aditya Singh</h1>
 
 <p align="center">
-🎓 B.Tech @ BBD University <br>
+🎓 B.Tech CSE (AI)@ BBD University <br>
 💻 Full Stack Developer <br>
 🚀 AI • Web • Startups  
 </p>
