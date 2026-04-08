@@ -60,20 +60,20 @@
 
 ---
 <!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
+<!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
 
-<!-- ✅ STABLE STATS (NO BREAK ISSUE) -->
-<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&v=4" />
+<!-- ✅ FIXED STATS (NO RATE LIMIT ISSUE) -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<!-- ✅ PRODUCTIVE TIME (UNCHANGED) -->
+<!-- ✅ PRODUCTIVE TIME -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<!-- ✅ STABLE TOP LANGS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=4" />
+<!-- ✅ FIXED TOP LANGS -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
 </p>
 
 # 🛠️ TECH STACK
