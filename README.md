@@ -62,7 +62,6 @@
 <!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
-<p align="center">
 
 <!-- ✅ STABLE STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
