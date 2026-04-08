@@ -69,7 +69,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=120" />
 </p>
 </p>
-# 🛠️ TECH STACK
+# <h2 align="center">📊 🛠️ **TECH STACK**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode" />
