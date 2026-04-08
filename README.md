@@ -60,16 +60,16 @@
 
 ---
 <!-- 🔥 LIVE DASHBOARD (SAFE VERSION) -->
+<!-- 🔥 LIVE DASHBOARD (FINAL PERMANENT FIX) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
 
-<!-- ✅ SIMPLE STATS (NEVER BREAKS) -->
-<img src="https://img.shields.io/badge/Commits-Active-7C3AED?style=for-the-badge&logo=github" />
+<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://img.shields.io/badge/Status-Coding%20Daily-111?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-7C3AED?style=for-the-badge" />
+<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 # 🛠️ TECH STACK
