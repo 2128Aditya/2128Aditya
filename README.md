@@ -59,18 +59,18 @@
 </p>
 
 ---
-<!-- 🔥 LIVE DASHBOARD (SAFE VERSION) -->
-<!-- 🔥 LIVE DASHBOARD (FINAL PERMANENT FIX) -->
+<!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
 
-<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- CONTRIBUTION SUMMARY -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 </p>
 # 🛠️ TECH STACK
 
