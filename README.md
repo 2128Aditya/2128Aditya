@@ -1,11 +1,14 @@
-<!-- 🔮 3D ANIMATED HEADER -->
+<!-- 🌌 3D NEON HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=🚀+Initializing+Aditya+Singh...;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🔥+Building+Future+With+Code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=160&section=header&text=👋%20Aditya%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=120&section=header&text=👋%20Aditya%20Singh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</h1>
+<!-- AI INTRO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Initializing+Aditya+Singh...;Full+Stack+Developer+Loaded;AI+Enthusiast+Activated;Building+Future+🚀" />
+</p>
+
+<h1 align="center">👋 Aditya Singh</h1>
 
 <p align="center">
 🎓 B.Tech @ BBD University <br>
@@ -15,15 +18,18 @@
 
 ---
 
-<!-- 🧊 GLASS BADGES -->
+<!-- 🔥 VISITOR + STATS COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/2128Aditya?label=Followers&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/2128Aditya?style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/2128Aditya?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=7C3AED" />
   <img src="https://img.shields.io/badge/Achievements-Unlocked-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<!-- ✨ NEON DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+</p>
 
 # 🌐 CONNECT WITH ME
 
@@ -49,9 +55,12 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
-# 📊 LIVE DEV DASHBOARD
+<!-- 📊 LIVE DASHBOARD -->
+<h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED" />
@@ -61,7 +70,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 # 🛠️ TECH STACK
 
@@ -69,7 +80,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 # 🔥 STREAK
 
@@ -95,7 +108,7 @@
 
 ---
 
-# 📊 TRACKER
+# TRACKER
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" />
@@ -117,9 +130,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
----
-
 <!-- 🌊 3D FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:7C3AED&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:7C3AED&height=120&section=footer"/>
 </p>
