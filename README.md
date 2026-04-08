@@ -1,9 +1,11 @@
-<!-- AI INTRO ANIMATION -->
+<!-- 🔮 3D ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=7C3AED&center=true&vCenter=true&width=900&lines=Initializing+Aditya+Singh...;Full+Stack+Developer+Loaded;AI+Enthusiast+Activated;Building+Future+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=🚀+Initializing+Aditya+Singh...;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🔥+Building+Future+With+Code" />
 </p>
 
-<h1 align="center">👋 Aditya Singh</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=120&section=header&text=👋%20Aditya%20Singh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</h1>
 
 <p align="center">
 🎓 B.Tech @ BBD University <br>
@@ -13,11 +15,11 @@
 
 ---
 
-<!-- VISITOR + STATS COUNTER -->
+<!-- 🧊 GLASS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/2128Aditya?label=Followers&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/2128Aditya?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/2128Aditya?style=for-the-badge&color=7C3AED" />
   <img src="https://img.shields.io/badge/Achievements-Unlocked-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -49,15 +51,14 @@
 
 ---
 
-<!-- 🔥 LIVE DASHBOARD -->
-<h2 align="center">📊 Live Dev Dashboard</h2>
+# 📊 LIVE DEV DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=7C3AED&icon_color=7C3AED" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=7C3AED" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
 </p>
 
 ---
@@ -73,7 +74,7 @@
 # 🔥 STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2128Aditya&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+  <img src="https://streak-stats.demolab.com?user=2128Aditya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +82,7 @@
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=00000000&color=7C3AED&line=7C3AED&point=7C3AED&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -94,10 +95,10 @@
 
 ---
 
-# TRACKER
+# 📊 TRACKER
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" />
 </p>
 
 ---
@@ -114,4 +115,11 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
+
+<!-- 🌊 3D FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:7C3AED&height=100&section=footer"/>
 </p>
