@@ -70,7 +70,9 @@
 </p>
 </p>
 
-#📊 🛠️ **TECH STACK**
+---
+
+#🛠️ **TECH STACK**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode" />
