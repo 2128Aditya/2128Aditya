@@ -62,15 +62,18 @@
 <!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
+<p align="center">
 
-<!-- ✅ STABLE STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- ✅ PRIMARY (WORKING MOST TIME) -->
+<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" 
+     onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true';" />
 
 <!-- ✅ PRODUCTIVE TIME -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<!-- ✅ STABLE TOP LANGS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- ✅ TOP LANGS WITH FALLBACK -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" 
+     onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true';" />
 
 </p>
 
