@@ -64,13 +64,16 @@
 
 <p align="center">
 
-<!-- ✅ FIXED ORIGINAL API -->
-<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" />
+<!-- ✅ STABLE STATS (NO BREAK ISSUE) -->
+<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&v=4" />
 
+<!-- ✅ PRODUCTIVE TIME (UNCHANGED) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<!-- ✅ FIXED ORIGINAL API -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" />
+<!-- ✅ STABLE TOP LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=4" />
+
+</p>
 </p>
 
 # 🛠️ TECH STACK
