@@ -59,24 +59,19 @@
 </p>
 
 ---
-<!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
+<!-- 🔥 LIVE DASHBOARD (SAFE VERSION) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
 
-<!-- ✅ PRIMARY (WORKING MOST TIME) -->
-<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" 
-     onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true';" />
+<!-- ✅ SIMPLE STATS (NEVER BREAKS) -->
+<img src="https://img.shields.io/badge/Commits-Active-7C3AED?style=for-the-badge&logo=github" />
 
-<!-- ✅ PRODUCTIVE TIME -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
+<img src="https://img.shields.io/badge/Status-Coding%20Daily-111?style=for-the-badge&logo=visualstudiocode" />
 
-<!-- ✅ TOP LANGS WITH FALLBACK -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" 
-     onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true';" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-7C3AED?style=for-the-badge" />
 
 </p>
-
 # 🛠️ TECH STACK
 
 <p align="center">
