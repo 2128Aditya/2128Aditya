@@ -60,19 +60,18 @@
 
 ---
 <!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
-<!-- 🔥 LIVE DASHBOARD (ANIMATED STYLE) -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
 
-<!-- ✅ FIXED STATS (NO RATE LIMIT ISSUE) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- ✅ STABLE STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!-- ✅ PRODUCTIVE TIME -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight&utcOffset=5.5" />
 
-<!-- ✅ FIXED TOP LANGS -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- ✅ STABLE TOP LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -103,7 +102,6 @@
 
 # 🐍 CONTRIBUTION SNAKE
 
-<!-- ⚠️ Make sure GitHub Action is enabled for snake animation auto update -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/main/github-contribution-grid-snake.svg" />
 </p>
