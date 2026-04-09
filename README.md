@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=2128Aditya&theme=onedark&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&rank=S,AAA,AA,A&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- 🔥 VISITOR + STATS COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2128Aditya&label=Visitors&color=7C3AED&style=for-the-badge" />
