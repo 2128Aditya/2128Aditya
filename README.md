@@ -94,7 +94,7 @@
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=2128Aditya&theme=tokyonight&hide_border=true&v=123" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=redical&hide_border=true" />
 </p>
 
 ---
