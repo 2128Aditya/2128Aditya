@@ -87,8 +87,8 @@
 # 🔥 STREAK
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2128Aditya&theme=tokyonight&hide_border=true" />
-</p>s
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=2128Aditya&theme=dark&hide_border=true&stroke=ff0000&ring=ff0000&fire=ffcc00&currStreakNum=ffcc00&sideNums=ff0000&currStreakLabel=ffcc00&sideLabels=ff0000&dates=ffffff" />
+</p>
 ---
 
 # 📈 CONTRIBUTION GRAPH
