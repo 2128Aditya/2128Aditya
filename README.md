@@ -106,9 +106,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2128Aditya&theme=onedark&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&rank=S,AAA,AA,A&column=6" />
-</p>
+
 # TRACKER
 
 <p align="center">
@@ -124,7 +122,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-trophy-git-main.vercel.app/?username=2128Aditya" />
+</p>  
+---
 # ⚡ FUN
 
 <p align="center">
