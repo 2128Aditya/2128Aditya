@@ -122,10 +122,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy-git-main.vercel.app/?username=2128Aditya" />
-</p>  
----
+
 # ⚡ FUN
 
 <p align="center">
