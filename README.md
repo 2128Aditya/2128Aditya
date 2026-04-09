@@ -107,7 +107,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2128Aditya&theme=dracula&no-frame=true&margin-w=15&margin-h=15&rank=S,AAA,AA&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=2128Aditya&theme=onedark&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&rank=S,AAA,AA,A&column=6" />
 </p>
 # TRACKER
 
