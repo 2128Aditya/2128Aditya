@@ -94,7 +94,7 @@
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=0d1117&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
