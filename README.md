@@ -106,7 +106,9 @@
 </p>
 
 ---
-
+<p align="center">
+https://github-profile-trophy.vercel.app/?2128Aditya=ryo-ma&theme=flat
+</p>
 # TRACKER
 
 <p align="center">
