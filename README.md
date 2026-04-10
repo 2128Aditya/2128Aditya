@@ -1,6 +1,6 @@
 <!-- 🌌 3D NEON HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=160&section=header&text=👋%20Aditya%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=160&section=header&text=%20Aditya%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- AI INTRO ANIMATION -->
