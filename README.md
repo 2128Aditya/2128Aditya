@@ -155,7 +155,7 @@
 ![AI Integration](https://img.shields.io/badge/AI_Integration-3F51B5?style=for-the-badge)
 ![API Dev](https://img.shields.io/badge/API_Development-009688?style=for-the-badge)
 ![OS Optimization](https://img.shields.io/badge/OS_Optimization-9C27B0?style=for-the-badge)
-![DIY Projects](https://img.shields.io/badge/DIY_Electronics-FFC107?style=for-the-badge)
+
 
 # 🔥 STREAK
 
