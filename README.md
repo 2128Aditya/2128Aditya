@@ -74,15 +74,82 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-# 🛠️ TECH STACK
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode" />
-</p>
+### 💬 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
+---
+
+### ⚙️ Frameworks & Tools  
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1E1E1E?style=for-the-badge&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🧰 Libraries  
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Firebase Admin](https://img.shields.io/badge/firebase_admin-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OS](https://img.shields.io/badge/os_module-444444?style=for-the-badge&logo=linux)
+![Threading](https://img.shields.io/badge/threading-008080?style=for-the-badge&logo=python)
+
+---
+
+### 🤖 AI / ML & APIs  
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge&logo=lightning&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Custom APIs](https://img.shields.io/badge/Custom_APIs-6A1B9A?style=for-the-badge&logo=fastapi)
+
+---
+
+### 💾 Databases  
+![Firebase](https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore_DB-FFA000?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🧑‍💻 Development Tools  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python)
+
+---
+
+### 🎨 UI / UX & Design  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+### 🪄 Special Skills  
+![Automation](https://img.shields.io/badge/System_Automation-FF5722?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-607D8B?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-795548?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI_Integration-3F51B5?style=for-the-badge)
+![API Dev](https://img.shields.io/badge/API_Development-009688?style=for-the-badge)
+![OS Optimization](https://img.shields.io/badge/OS_Optimization-9C27B0?style=for-the-badge)
+![DIY Projects](https://img.shields.io/badge/DIY_Electronics-FFC107?style=for-the-badge)
 
 # 🔥 STREAK
 
