@@ -102,15 +102,15 @@
 ---
 
 ### 🧰 Libraries  
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Firebase Admin](https://img.shields.io/badge/firebase_admin-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![OS](https://img.shields.io/badge/os_module-444444?style=for-the-badge&logo=linux)
-![Threading](https://img.shields.io/badge/threading-008080?style=for-the-badge&logo=python)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/bcrypt-003B57?style=for-the-badge)
 
 ---
 
