@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/aditya212817" target="_blank">
+  <a href="https://www.linkedin.com/in/aaditya212817" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
