@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="mailto:aadi21082003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/aadi21082003@gmai.com?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/aaditya212817">
