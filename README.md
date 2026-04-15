@@ -55,9 +55,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 <!-- 📊 LIVE DASHBOARD -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
