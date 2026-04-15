@@ -34,21 +34,25 @@
 # 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:aadi21082003@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:aadi21082003@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/aditya212817">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/aditya212817" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://github.com/2128Aditya">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/2128Aditya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://instagram.com/_.anurag_21">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/_.anurag_21" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
 <p align="center">
