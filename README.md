@@ -56,10 +56,21 @@
 </p>
 
 <!-- 📊 LIVE DASHBOARD -->
-<a href="https://github.com/2128Aditya">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight" />
-</a>
+<h2 align="center">📊 Live Dev Dashboard</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+
 ### 💬 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
