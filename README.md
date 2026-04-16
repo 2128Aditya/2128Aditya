@@ -70,7 +70,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=transparent"/> 	    
 
-<img alt="2128Aditya's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=2128Aditya&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br> 	
+
 
 </div> 
 </details>
