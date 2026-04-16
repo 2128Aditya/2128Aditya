@@ -56,24 +56,19 @@
 </p>
 
 <!-- 📊 LIVE DASHBOARD -->
-<details open> 
-<summary><h3>📊 Statistics | </h3> 
-<img height="20px" src="https://visitcount.itsvg.in/api?id=2128Aditya&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</summary>     
+<h2 align="center">📊 Live Dev Dashboard</h2>
 
-<img alt="2128Aditya profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=2128Aditya&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>     
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aman9554&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman9554&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman9554&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
+</p>
 
-<img alt="2128Aditya Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=2128Aditya&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /> 	
-
-<div align="center"> 	    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=transparent"/> 	    
-
-<img src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=transparent"/> 	    
-
-
-
-</div> 
-</details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## 🛠️ Tech Stack  
 
