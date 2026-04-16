@@ -56,21 +56,10 @@
 </p>
 
 <!-- 📊 LIVE DASHBOARD -->
-<h2 align="center">📊 Live Dev Dashboard</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aman9554&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman9554&theme=tokyonight" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman9554&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-## 🛠️ Tech Stack  
+<a href="https://www.adamalston.com/">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=2128Aditya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
 
 ### 💬 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
