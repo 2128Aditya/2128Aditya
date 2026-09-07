@@ -11,9 +11,9 @@
 <h1 align="center">👋 Aditya Singh</h1>
 
 <p align="center">
-🎓 B.Tech CSE (AI)@ BBD University <br>
-💻 Full Stack Developer <br>
-🚀 AI • Web • Startups  
+  🎓 B.Tech CSE (AI) @ BBD University <br>
+  💻 Full Stack Developer <br>
+  🚀 AI • Web • Startups
 </p>
 
 ---
@@ -28,50 +28,62 @@
 
 <!-- ✨ NEON DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 </p>
 
 # 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:aadi21082003@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+
+  <a href="mailto:aadi21082003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 
-  <a href="https://www.linkedin.com/in/aaditya212817" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.linkedin.com/in/aaditya212817">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
-  <a href="https://github.com/2128Aditya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://github.com/2128Aditya">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 
-  <a href="https://instagram.com/_.anurag_21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin:10px; transition:0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://instagram.com/_.anurag_21">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
 
 <!-- 📊 LIVE DASHBOARD -->
 <h2 align="center">📊 Live Dev Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2128Aditya&theme=tokyonight"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
 
+---
 
-### 💬 Languages  
+### 💬 Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,7 +96,7 @@
 
 ---
 
-### ⚙️ Frameworks & Tools  
+### ⚙️ Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -94,9 +106,10 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
-### 🧰 Libraries  
+### 🧰 Libraries
 
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -109,7 +122,8 @@
 
 ---
 
-### 🤖 AI / ML & APIs  
+### 🤖 AI / ML & APIs
+
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq API](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge&logo=lightning&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
@@ -117,13 +131,15 @@
 
 ---
 
-### 💾 Databases  
+### 💾 Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🧑‍💻 Development Tools  
+### 🧑‍💻 Development Tools
+
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -137,13 +153,15 @@
 
 ---
 
-### 🎨 UI / UX & Design  
+### 🎨 UI / UX & Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 ---
 
-### 🪄 Special Skills  
+### 🪄 Special Skills
+
 ![Automation](https://img.shields.io/badge/System_Automation-FF5722?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-607D8B?style=for-the-badge)
 ![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-795548?style=for-the-badge)
@@ -151,19 +169,24 @@
 ![API Dev](https://img.shields.io/badge/API_Development-009688?style=for-the-badge)
 ![OS Optimization](https://img.shields.io/badge/OS_Optimization-9C27B0?style=for-the-badge)
 
+---
 
 # 🔥 STREAK
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2128Aditya&theme=dark&hide_border=true&stroke=ff1a1a&ring=ff0000&fire=ffff00&currStreakNum=ffff00&sideNums=ff4d4d&currStreakLabel=ffff00&sideLabels=ff4d4d&dates=ffffff" />
+  <img
+    src="https://streak-stats.demolab.com?user=2128Aditya&theme=dark&hide_border=true&stroke=ff1a1a&ring=ff0000&fire=ffff00&currStreakNum=ffff00&sideNums=ff4d4d&currStreakLabel=ffff00&sideLabels=ff4d4d&dates=ffffff"
+  />
 </p>
----
 
+---
 
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=0d1117&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=0d1117&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true"
+  />
 </p>
 
 ---
@@ -171,7 +194,9 @@
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/main/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/main/github-contribution-grid-snake.svg"
+  />
 </p>
 
 ---
@@ -179,7 +204,9 @@
 # TRACKER
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -187,7 +214,9 @@
 # 💡 QUOTE
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&animation=grow_out_in" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&animation=grow_out_in"
+  />
 </p>
 
 ---
@@ -195,10 +224,16 @@
 # ⚡ FUN
 
 <p align="center">
-   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img
+    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+    alt="Coder GIF"
+    width="500"
+  />
 </p>
 
 <!-- 🌊 3D FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:7C3AED&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:7C3AED&height=120&section=footer"
+  />
 </p>
