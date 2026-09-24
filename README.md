@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:7C3AED&height=210&section=header&text=ADITYA%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:7C3AED&height=210&section=header&text=ADITYA%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Aditya Singh - Full Stack Developer" />
 
 <br/>
 
@@ -12,27 +12,27 @@
 <br/><br/>
 
 <a href="https://github.com/2128Aditya">
-  <img src="https://img.shields.io/badge/GitHub-2128Aditya-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-2128Aditya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/aaditya212817/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ======================= ABOUT ME ======================= -->
 
-<h2 align="center">A little about me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-### Hey, I'm Aditya 👋
+### Hi, I'm Aditya Singh 👋
 
-I'm a Computer Science & Engineering student specializing in AI, interested in building practical software and exploring the technology behind it.
+**Computer Science & Engineering | AI Enthusiast | Full-Stack Developer**
 
-I enjoy creating responsive web experiences, developing backend functionality, and experimenting with AI-powered applications.
+I enjoy turning ideas into practical applications. My interests include building responsive web experiences, developing backend systems, and exploring AI-powered solutions.
 
 </div>
 
@@ -42,30 +42,53 @@ I enjoy creating responsive web experiences, developing backend functionality, a
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧑‍💻 Developer side</h3>
+<h3>💻 What I Do</h3>
 
-- 🌐 Full-Stack Web Development
-- ⚙️ Backend APIs & Application Logic
-- 📱 Flutter & Mobile Development
-- 🤖 AI / ML Experiments
+- 🌐 Build responsive and interactive web applications
+- ⚙️ Develop backend APIs and application logic
+- 📱 Explore cross-platform app development with Flutter
+- 🤖 Experiment with AI and machine learning
+- 🛠️ Work with databases, tools, and deployment platforms
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🚀 Learning side</h3>
+<h3>🎯 What I'm Working On</h3>
 
-- 🧩 Data Structures & Algorithms
-- 🏗️ System Design Fundamentals
-- 🧠 Practical AI Applications
-- 💬 Communication & Interview Preparation
+- 🧩 Strengthening Data Structures & Algorithms
+- 🏗️ Learning system design and software architecture
+- 🧠 Exploring practical AI applications
+- 🚀 Improving full-stack development skills
+- 💬 Practicing communication and interview preparation
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-*Curious by nature. Developer by passion. Always building.*
+<table>
+<tr>
+<td align="center">
+  <b>🌱 Mindset</b><br/>
+  Learn • Build • Improve
+</td>
+<td align="center">
+  <b>🎯 Goal</b><br/>
+  Create useful, reliable software
+</td>
+<td align="center">
+  <b>⚡ Interests</b><br/>
+  Web Development • AI • Problem Solving
+</td>
+</tr>
+</table>
+
+<br/>
+
+<i>Curious by nature. Developer by passion. Always building.</i>
 
 </div>
 
@@ -73,7 +96,7 @@ I enjoy creating responsive web experiences, developing backend functionality, a
 
 <!-- ======================= TECH STACK ======================= -->
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
   <sub>Technologies and tools I work with and explore</sub>
@@ -82,54 +105,55 @@ I enjoy creating responsive web experiences, developing backend functionality, a
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css&theme=dark" alt="C++, Java, Python, JavaScript, HTML, CSS"/>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend & Mobile</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter&theme=dark" alt="React, Vite, Tailwind CSS, Flutter"/>
 </p>
 
 <h3 align="center">Backend & Database</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Node.js, Express, MongoDB, MySQL, Firebase"/>
 </p>
 
 <h3 align="center">AI / ML</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV"/>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker, Vercel"/>
 </p>
 
 ---
 
-
-<!-- ================= GITHUB STATS ================= -->
+<!-- ======================= GITHUB OVERVIEW ======================= -->
 
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-lime-seven-46.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-lime-seven-46.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Top Languages"
   />
 </p>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
+---
+
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -141,47 +165,57 @@ I enjoy creating responsive web experiences, developing backend functionality, a
   />
 </p>
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+---
 
-<h2 align="center">Contribution Journey</h2>
+<!-- ======================= CONTRIBUTION JOURNEY ======================= -->
+
+<h2 align="center">🗓️ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" width="95%" alt="Profile Summary" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
 ---
 
 <!-- ======================= CURRENT FOCUS ======================= -->
 
-<h2 align="center">What I'm Focusing On</h2>
+<h2 align="center">🎯 What I'm Focusing On</h2>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🧠 DSA
+<h3>🧠 DSA</h3>
 
-Improving problem-solving and coding fundamentals.
-
-</td>
-<td align="center" width="33%">
-
-### 🌐 Full Stack
-
-Building responsive applications and learning backend architecture.
+Improving problem-solving skills, coding fundamentals, and algorithmic thinking.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🤖 AI
+<h3>🌐 Full Stack</h3>
 
-Exploring machine learning and useful AI-powered features.
+Building responsive applications and learning backend development and architecture.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h3>🤖 AI / ML</h3>
+
+Exploring machine learning concepts and building useful AI-powered features.
 
 </td>
 </tr>
@@ -191,23 +225,29 @@ Exploring machine learning and useful AI-powered features.
 
 <!-- ======================= CONNECT ======================= -->
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  I'm always open to connecting with developers, learning from others, and discussing ideas.
+  I'm always happy to connect with developers, exchange ideas, learn new things, and discuss technology.
 </p>
 
 <p align="center">
   <a href="https://github.com/2128Aditya">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <a href="https://www.linkedin.com/in/aaditya212817/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
 
-<p align="center">
-  <sub>Thanks for stopping by ✨</sub>
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=110&section=footer" width="100%" />
+<div align="center">
+
+<i>Thanks for stopping by! ✨</i>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=110&section=footer" width="100%" alt="Purple footer"/>
