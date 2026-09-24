@@ -111,22 +111,35 @@ I enjoy creating responsive web experiences, developing backend functionality, a
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
 
-<h2 align="center">GitHub Overview</h2>
+<!-- ================= GITHUB STATS ================= -->
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Top Languages" />
-</p>
-
-<br/>
+<h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
----
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
 
 <!-- ======================= CONTRIBUTIONS ======================= -->
 
