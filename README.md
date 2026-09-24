@@ -159,19 +159,24 @@ Build useful software
 <!--                    GITHUB OVERVIEW                     -->
 <!-- ====================================================== -->
 
+
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-<img
-src="https://github-readme-stats-lime-seven-46.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true"
-height="170"
-alt="GitHub Statistics"
-/>
-<img
-src="https://github-readme-stats-lime-seven-46.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true"
-height="170"
-alt="Most Used Languages"
-/>
+  <a href="https://github-readme-stats-lime-seven-46.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight">
+    <img
+      src="https://github-readme-stats-lime-seven-46.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+      height="180"
+    />
+  </a>
+  <a href="https://github-readme-stats-lime-seven-46.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight">
+    <img
+      src="https://github-readme-stats-lime-seven-46.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+      height="180"
+    />
+  </a>
 </p>
 
 ---
