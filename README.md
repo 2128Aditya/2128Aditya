@@ -1,228 +1,200 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ======================= HERO ======================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Aditya%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    width="100%"
-    alt="Aditya Singh profile header"
-  />
-</p>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer | AI Enthusiast | Problem Solver
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:7C3AED&height=210&section=header&text=ADITYA%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+applications;Exploring+AI+and+Full-Stack+Development;Learning%2C+Building%2C+Improving"
-    alt="Typing introduction"
-  />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/2128Aditya">
-    <img src="https://img.shields.io/badge/GitHub-2128Aditya-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aaditya212817/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Building+for+the+web%2C+exploring+AI.;Learning+something+new+with+every+project." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/2128Aditya">
+  <img src="https://img.shields.io/badge/GitHub-2128Aditya-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aaditya212817/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ======================= ABOUT ======================= -->
 
-<h2>👋 About Me</h2>
+<h2 align="center">A little about me</h2>
 
-<p>
-  I'm <strong>Aditya Singh</strong>, a Computer Science student interested in
-  building useful software and exploring how technology can solve real-world
-  problems.
-</p>
+<div align="center">
 
-<p>
-  I enjoy working across the stack—from creating responsive user interfaces
-  to developing backend services—and I'm also exploring Artificial
-  Intelligence and Machine Learning.
-</p>
+### Hey, I'm Aditya 👋
+
+I'm a Computer Science & Engineering student specializing in AI, interested in building practical software and exploring the technology behind it.
+
+I enjoy creating responsive web experiences, developing backend functionality, and experimenting with AI-powered applications.
+
+</div>
+
+<br/>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 What I Do</h3>
-      <ul>
-        <li>Build responsive web applications</li>
-        <li>Develop backend APIs and services</li>
-        <li>Explore AI and Machine Learning</li>
-        <li>Practice Data Structures & Algorithms</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 What I'm Working Toward</h3>
-      <ul>
-        <li>Becoming a skilled software developer</li>
-        <li>Strengthening problem-solving skills</li>
-        <li>Learning system design fundamentals</li>
-        <li>Building practical, user-focused products</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧑‍💻 Developer side</h3>
+
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend APIs & Application Logic
+- 📱 Flutter & Mobile Development
+- 🤖 AI / ML Experiments
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 Learning side</h3>
+
+- 🧩 Data Structures & Algorithms
+- 🏗️ System Design Fundamentals
+- 🧠 Practical AI Applications
+- 💬 Communication & Interview Preparation
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <em>Learning by building. Improving with every commit.</em>
-</p>
+<div align="center">
+
+*Curious by nature. Developer by passion. Always building.*
+
+</div>
 
 ---
 
-<!-- ===================== TECHNOLOGIES ===================== -->
+<!-- ======================= TECH STACK ======================= -->
 
-<h2>🛠️ Technologies & Tools</h2>
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <sub>Technologies and tools I work with and explore</sub>
+</p>
 
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css&perline=6" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css&theme=dark" />
 </p>
 
-<h3 align="center">Frameworks & Development</h3>
+<h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind,vite&perline=6" alt="Frameworks and development tools"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter&theme=dark" />
 </p>
 
-<h3 align="center">Databases & Backend</h3>
+<h3 align="center">Backend & Database</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postman&perline=6" alt="Databases and backend tools"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 </p>
 
-<h3 align="center">AI / ML & Data</h3>
+<h3 align="center">AI / ML</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&perline=6" alt="AI and machine learning tools"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
 </p>
 
-<h3 align="center">Developer Tools & Platforms</h3>
+<h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,vercel&perline=6" alt="Developer tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" />
 </p>
 
 ---
 
-<!-- ===================== AREAS OF INTEREST ===================== -->
+<!-- ======================= GITHUB STATS ======================= -->
 
-<h2>🧩 Areas I Work On</h2>
+<h2 align="center">GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Development-7C3AED?style=flat-square" alt="Full-Stack Development"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-5B21B6?style=flat-square" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-6D28D9?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-7C3AED?style=flat-square" alt="Data Structures and Algorithms"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-5B21B6?style=flat-square" alt="Problem Solving"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Top Languages" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
 
-<!-- ===================== GITHUB DASHBOARD ===================== -->
+<!-- ======================= CONTRIBUTIONS ======================= -->
 
-<h2>📊 GitHub Dashboard</h2>
+<h2 align="center">Contribution Journey</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=2128Aditya&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2128Aditya&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight" width="95%" alt="Profile Summary" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake" />
 </p>
 
 ---
 
-<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+<!-- ======================= CURRENT FOCUS ======================= -->
 
-<h2>📈 Contribution Activity</h2>
+<h2 align="center">What I'm Focusing On</h2>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 DSA
+
+Improving problem-solving and coding fundamentals.
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Full Stack
+
+Building responsive applications and learning backend architecture.
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI
+
+Exploring machine learning and useful AI-powered features.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=2128Aditya&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="Contribution activity graph"
-  />
+  I'm always open to connecting with developers, learning from others, and discussing ideas.
 </p>
-
----
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/2128Aditya/2128Aditya/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub contribution snake animation"
-  />
-</p>
-
----
-
-<!-- ===================== PROFILE SUMMARY ===================== -->
-
-<h2>📂 Profile Summary</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2128Aditya&theme=tokyonight"
-    width="100%"
-    alt="GitHub profile summary"
-  />
-</p>
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<h2>🌱 Currently Focusing On</h2>
-
-<ul>
-  <li>Strengthening DSA and problem-solving fundamentals</li>
-  <li>Improving full-stack development skills</li>
-  <li>Learning system design and software architecture</li>
-  <li>Exploring practical AI and ML applications</li>
-</ul>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-<h2>🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/2128Aditya">
-    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20profile-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/aaditya212817/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 <p align="center">
-  <em>Thanks for visiting my profile! Feel free to explore and connect.</em>
+  <sub>Thanks for stopping by ✨</sub>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"
-    width="100%"
-    alt="Purple footer"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=110&section=footer" width="100%" />
